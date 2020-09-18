@@ -60,6 +60,12 @@
 .description {
   line-height: 1.5;
   font-size: 1.5rem;
+  max-width: 800px;
+}
+
+.description a {
+  color: #0070f3;
+  text-decoration: none; 
 }
 
 .code {

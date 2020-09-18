@@ -8,8 +8,18 @@
     "start": "next start"
   },
   "dependencies": {
+    "@tipe/js": "*",
+    "@tipe/next": "*",
+    "@tipe/react-editor": "*",
     "next": "9.5.3",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-dom": "16.13.1",
+    "react-mde": "^11.0.0",
+    "react-showdown": "^2.1.0",
+    "showdown": "^1.9.1",
+    "slugify": "^1.4.5"
+  },
+  "devDependencies": {
+    "eslint-plugin-zero-config": "^2.1.2"
   }
 }
